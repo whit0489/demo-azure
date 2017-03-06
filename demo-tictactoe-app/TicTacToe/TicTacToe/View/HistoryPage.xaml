@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TicTacToe.View.HistoryPage"
+             Title="History"
+             NavigationPage.BackButtonTitle="Back">
+    <ListView ItemsSource="{Binding Items}"
+            ItemTapped="Handle_ItemTapped"
+            HasUnevenRows="true"
+            CachingStrategy="RecycleElement">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Padding="10">
+                        <Label Text="{Binding PlayersDisplay}" 
+                               Style="{DynamicResource ListItemTextStyle}" />
+                        <Label Text="{Binding DateDisplay}" 
+                               Style="{DynamicResource ListItemDetailTextStyle}"/>
+                        <Label Text="{Binding WinnerDisplay}" 
+                               FontSize="20"
+                               Style="{DynamicResource ListItemTextStyle}" />
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
