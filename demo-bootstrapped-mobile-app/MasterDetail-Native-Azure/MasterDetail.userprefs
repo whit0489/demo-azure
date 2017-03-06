@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AAC840E1-2EA2-4FD7-ABE9-03B399F5D712}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MasterDetail.Droid/Activities/BrowseItemDetailActivity.cs" Line="36" Column="4" />
+      <File FileName="MasterDetail.Droid/Fragments/BrowseFragment.cs" Line="1" Column="1" />
+      <File FileName="MasterDetail.Droid/Activities/BaseActivity.cs" Line="1" Column="1" />
+      <File FileName="MasterDetail.Droid/Activities/MainActivity.cs" Line="15" Column="2" />
+      <File FileName="MasterDetail.Droid/Activities/SplashActivity.cs" Line="1" Column="1" />
+      <File FileName="MasterDetail.Droid/Fragments/AboutFragment.cs" Line="1" Column="1" />
+      <File FileName="MasterDetail.Droid/Helpers/MessageDialog.cs" Line="1" Column="1" />
+      <File FileName="MasterDetail.Droid/Helpers/BaseRecycleViewAdapter.cs" Line="1" Column="1" />
+      <File FileName="MasterDetail.iOS/Main.cs" Line="12" Column="1" />
+      <File FileName="MasterDetail.Shared/Services/IDataStore.cs" Line="1" Column="1" />
+      <File FileName="MasterDetail.Shared/Services/MockDataStore.cs" Line="17" Column="1" />
+      <File FileName="MasterDetail.Shared/App.cs" Line="1" Column="1" />
+      <File FileName="MasterDetail.iOS/ViewControllers/BrowseViewController.cs" Line="19" Column="28" />
+      <File FileName="MasterDetail.Shared/ViewModels/ItemsViewModel.cs" Line="28" Column="10" />
+      <File FileName="MasterDetail.Shared/Helpers/MessagingCenter.cs" Line="6" Column="31" />
+      <File FileName="MasterDetail.iOS/ViewControllers/DetailViewControllers/BrowseItemDetailViewController.cs" Line="1" Column="1" />
+      <File FileName="MasterDetail.iOS/ItemNewViewController.cs" Line="28" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MasterDetail.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+  <MonoDevelop.Ide.ItemProperties.MasterDetail.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.071096DF-AD93-4595-96AB-2582A838B448" />
+</Properties>

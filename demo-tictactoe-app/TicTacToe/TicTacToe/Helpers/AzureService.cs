@@ -16,7 +16,7 @@ namespace TicTacToe
 {
     public class AzureService
     {
-
+        //hello
         public MobileServiceClient Client { get; set; } = null;
         IMobileServiceSyncTable<Game> table;
 

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{764F4D61-49EF-422C-AD22-F3ADB4B59118}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterDetail/App.xaml.cs">
+    <Files>
+      <File FileName="MasterDetail/App.xaml.cs" Line="23" Column="11" />
+      <File FileName="MasterDetail/Models/Item.cs" Line="1" Column="1" />
+      <File FileName="MasterDetail/Models/BaseDataObject.cs" Line="1" Column="1" />
+      <File FileName="MasterDetail/Helpers/ObservableObject.cs" Line="1" Column="1" />
+      <File FileName="MasterDetail/Helpers/ObservableRangeCollection.cs" Line="37" Column="23" />
+      <File FileName="MasterDetail/Helpers/MessengingCenterAlert.cs" Line="8" Column="22" />
+      <File FileName="MasterDetail/Services/IDataStore.cs" Line="3" Column="30" />
+      <File FileName="MasterDetail/Services/MockDataStore.cs" Line="13" Column="20" />
+      <File FileName="MasterDetail/Services/AzureDataStore.cs" Line="16" Column="15" />
+      <File FileName="MasterDetail/Services/Authenticator.cs" Line="16" Column="20" />
+      <File FileName="MasterDetail.iOS/Authentication/SocialAuthenticator.cs" Line="12" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/pierce/Desktop/MasterDetail/MasterDetail/ViewModels/LoginViewModel.cs" line="38" column="1" />
+      <Breakpoint file="/Users/pierce/Desktop/MasterDetail/MasterDetail/ViewModels/LoginViewModel.cs" line="69" column="1" />
+      <Breakpoint file="/Users/pierce/Desktop/MasterDetail/MasterDetail/ViewModels/LoginViewModel.cs" line="70" column="1" />
+      <Breakpoint file="/Users/pierce/Desktop/MasterDetail/MasterDetail/ViewModels/LoginViewModel.cs" line="71" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MasterDetail.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.071096DF-AD93-4595-96AB-2582A838B448" />
+</Properties>

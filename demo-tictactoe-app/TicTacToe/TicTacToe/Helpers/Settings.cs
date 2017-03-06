@@ -15,7 +15,7 @@ namespace TicTacToe
     {
         public Settings(Page page = null) : base(null)
         {
-
+            //
         }
 
         private static ISettings AppSettings
